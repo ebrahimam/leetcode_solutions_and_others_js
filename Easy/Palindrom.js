@@ -35,3 +35,7 @@ function checkPalindrome(s) {
   }
   return true;
 }
+
+
+// Time Complexity: O(|s|) or O(number of digits)
+// Auxiliary Space: O(1)  
