@@ -48,6 +48,5 @@ const isVAlid = function (s) {
   return stack.length === 0;
 };
 
-
 // Time complexity : O(n).
 // Space complexity : O(n).
