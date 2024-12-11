@@ -20,7 +20,7 @@ const maxProfit = (Prices) => {
   return maxProfit;
 };
 
-//sulition 2 
+//sulition 2
 // A better Approach using One For Loop;
 
 function maxProfit(Prices) {
@@ -33,3 +33,6 @@ function maxProfit(Prices) {
   }
   return maxProfit;
 }
+
+// Time complexity : O(n).
+// Space complexity : O(1).
