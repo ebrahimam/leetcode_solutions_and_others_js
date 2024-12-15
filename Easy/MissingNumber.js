@@ -30,5 +30,3 @@ const findMissingNumber = (arr) => {
   let missingNumber = sumOfFirstN - sumOfArray;
   return missingNumber;
 };
-
-
