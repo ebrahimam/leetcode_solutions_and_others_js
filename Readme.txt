@@ -1,2 +1,3 @@
 Welcome My Friend.
-this project have three folder that name is easy,meduim and hard.
+
+this folder is created for leetcode solution and data structure in js .
